@@ -6,7 +6,6 @@ const {
   ipcMain,
   nativeTheme,
 } = require("electron");
-const bootstrap = require("bootstrap");
 const path = require("path");
 
 const createWindow = () => {

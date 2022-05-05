@@ -1,5 +1,5 @@
-const recommendation = document.querySelector(".recommendation");
-const addRecommendedMenu = document.querySelector(".addRecommendedMenu");
+// const recommendation = document.querySelector(".recommendation");
+// const addRecommendedMenu = document.querySelector(".addRecommendedMenu");
 
 // addRecommendedMenu.addEventListener("click", () => {
 //   // fetch를 통해서 데이터 추가로 받아올 예정
