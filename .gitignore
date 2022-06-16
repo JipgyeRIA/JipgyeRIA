@@ -3,3 +3,4 @@ image/
 out/
 seeds/
 .env
+menu.json
